@@ -1,0 +1,32 @@
+_repo: Margery-Beade-ja-Beden-armeliaisuus_33256
+_version: 0.1.0
+alternative_title: Bede's charity. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+description: ''
+gutenberg_issued: '2010-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33256'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: Margery Beade ja Beden armeliaisuus
+url: http://www.gutenberg.org/ebooks/33256
